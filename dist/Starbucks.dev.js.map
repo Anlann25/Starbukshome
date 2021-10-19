@@ -1,0 +1,1 @@
+{"version":3,"sources":["Starbucks.js"],"names":["imgSlider","anything","documnt","querySelector","src"],"mappings":";;AAAA,SAASA,SAAT,CAAmBC,QAAnB,EAA4B;AACxBC,EAAAA,OAAO,CAACC,aAAR,CAAsB,WAAtB,EAAmCC,GAAnC,GAAwCH,QAAxC;AACH","sourcesContent":["function imgSlider(anything){\r\n    documnt.querySelector('.starbuks').src =anything;\r\n}"],"file":"Starbucks.dev.js"}
